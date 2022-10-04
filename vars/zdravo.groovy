@@ -1,3 +1,3 @@
-def pozdrav(){
+def call(){
 sh "Pozdrav od Steve"
 }
